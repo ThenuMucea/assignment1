@@ -1,0 +1,5 @@
+Name: thenu
+Course: Linux System Programming
+Assignment No: 1
+Date: Sunday, 10 August 2025
+Arithmetic Example: 10 + 5 = 15
